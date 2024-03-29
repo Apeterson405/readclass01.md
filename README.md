@@ -12,6 +12,9 @@ Understanding the complexity of hacks, will force me to ensure I take all necces
 4. How were investigators able to trace the chips back to the source?
    By following supply chain in reverse
 
+https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies
+
+
 ## how computers work
 What makes a computer a computer
 1. The ability to take in information (Input)
